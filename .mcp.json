@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "gencow-docs": {
+      "type": "http",
+      "url": "https://docs.gencow.com/api/mcp"
+    },
+    "gencow-tools": {
+      "type": "http",
+      "url": "https://tools.gencow.com/api/mcp"
+    }
+  }
+}
