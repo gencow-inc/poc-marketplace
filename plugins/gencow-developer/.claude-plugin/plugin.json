@@ -1,6 +1,6 @@
 {
   "name": "gencow-developer",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Connect Claude Code to GENCOW developer tools.",
   "author": {
     "name": "GENCOW"

@@ -43,8 +43,8 @@ Replace `one-am` with `slow-memo`, `gencow-developer`, or `gencow-tools` to inst
 | --- | --- | --- |
 | 새벽 한 시 | https://1am.gencow.link/api/mcp | Create and manage your own characters |
 | 느린 메모 | https://blog.gencow.link/api/mcp | Draft and manage blog posts and images |
-| GENCOW 개발용 | https://docs.gencow.com/api/mcp | Connect to GENCOW developer documentation tools |
-| GENCOW 기타 도구 | https://tools.gencow.com/api/mcp | Connect to GENCOW utility tools |
+| GENCOW 개발문서 | https://docs.gencow.com/api/mcp | Connect to GENCOW developer documentation tools |
+| GENCOW 도구 | https://tools.gencow.com/api/mcp | Connect to GENCOW utility tools |
 
 The GENCOW MCP servers use OAuth; this repository does not contain access tokens or client secrets. 새벽 한 시 works with the connected user's characters. 느린 메모 creates drafts by default and only publishes when explicitly requested.
 
@@ -54,8 +54,8 @@ Each plugin keeps its icon in `plugins/<name>/assets/`. Both `logo` (listing) an
 
 - **새벽 한 시** uses the app's original 512 × 512 PNG from https://1am.gencow.link/icons/icon-512.png.
 - **느린 메모** uses a note and leaf icon.
-- **GENCOW 개발용** uses a code window icon.
-- **GENCOW 기타 도구** uses a toolbox icon.
+- **GENCOW 개발문서** uses a code window icon.
+- **GENCOW 도구** uses a toolbox icon.
 
 The three SVG icons are included in this repository. To replace an icon, update its asset and keep both manifest paths in sync. Icon changes require refreshing the marketplace and updating the installed plugin in Codex.
 

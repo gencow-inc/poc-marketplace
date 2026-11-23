@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
-  <title>GENCOW 기타 도구</title>
+  <title>GENCOW 도구</title>
   <rect width="512" height="512" rx="112" fill="#F5D8A4"/>
   <path d="M196 192v-40a24 24 0 0 1 24-24h72a24 24 0 0 1 24 24v40" fill="none" stroke="#754526" stroke-width="20"/>
   <rect x="88" y="192" width="336" height="200" rx="32" fill="#B3673E"/>
