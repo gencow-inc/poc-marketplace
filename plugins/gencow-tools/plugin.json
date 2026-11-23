@@ -1,0 +1,19 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "gencow-tools",
+  "version": "0.1.0",
+  "description": "Connect to GENCOW utility tools.",
+  "author": { "name": "GENCOW" },
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "GENCOW 기타 도구",
+        "shortDescription": "GENCOW 기타 도구 MCP",
+        "longDescription": "GENCOW 기타 도구용 MCP 서버의 도구를 사용합니다.",
+        "developerName": "GENCOW",
+        "category": "Productivity",
+        "defaultPrompt": "GENCOW 기타 도구 MCP에서 사용할 수 있는 도구를 확인하고 요청한 작업을 진행해줘."
+      }
+    }
+  }
+}
