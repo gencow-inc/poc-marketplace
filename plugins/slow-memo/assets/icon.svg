@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>느린 메모</title>
+  <rect width="512" height="512" rx="112" fill="#F3EDDE"/>
+  <rect x="132" y="112" width="248" height="296" rx="28" fill="#DCDAC6"/>
+  <rect x="112" y="96" width="248" height="296" rx="28" fill="#FFFCF4" stroke="#526651" stroke-width="16"/>
+  <path d="M168 176h136M168 232h100M168 288h72" fill="none" stroke="#526651" stroke-width="16" stroke-linecap="round"/>
+  <path d="M304 354c-4-58 16-95 70-116 7 57-16 96-70 116Z" fill="#839A70"/>
+  <path d="m291 377 48-81" fill="none" stroke="#526651" stroke-width="12" stroke-linecap="round"/>
+</svg>

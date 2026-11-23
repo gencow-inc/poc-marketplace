@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gencow-tools": {
+      "url": "https://tools.gencow.com/api/mcp",
+      "type": "http"
+    }
+  }
+}

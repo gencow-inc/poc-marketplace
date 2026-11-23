@@ -1,0 +1,36 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "gencow-poc-education",
+  "owner": {
+    "name": "GENCOW"
+  },
+  "metadata": {
+    "description": "GENCOW POC and education plugins for Claude Code."
+  },
+  "plugins": [
+    {
+      "name": "one-am",
+      "source": "./plugins/one-am",
+      "description": "Create and manage characters in 새벽 한 시.",
+      "category": "Productivity"
+    },
+    {
+      "name": "slow-memo",
+      "source": "./plugins/slow-memo",
+      "description": "Draft and manage blog posts and images in 느린 메모.",
+      "category": "Productivity"
+    },
+    {
+      "name": "gencow-developer",
+      "source": "./plugins/gencow-developer",
+      "description": "Connect Claude Code to GENCOW developer tools.",
+      "category": "Developer Tools"
+    },
+    {
+      "name": "gencow-tools",
+      "source": "./plugins/gencow-tools",
+      "description": "Connect Claude Code to GENCOW utility tools.",
+      "category": "Productivity"
+    }
+  ]
+}

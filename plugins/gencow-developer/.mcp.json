@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "gencow-developer": {
+      "url": "https://docs.gencow.com/api/mcp",
+      "type": "http"
+    }
+  }
+}

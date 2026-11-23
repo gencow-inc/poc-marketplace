@@ -1,15 +1,19 @@
 {
-  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "gencow-developer",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Connect Claude and Codex to GENCOW development tools.",
-  "author": { "name": "GENCOW" },
-  "extensions": { "com.openai": { "interface": {
+  "author": {
+    "name": "GENCOW"
+  },
+  "mcpServers": "./.mcp.json",
+  "interface": {
     "displayName": "GENCOW 개발용",
+    "logo": "./assets/icon.svg",
+    "composerIcon": "./assets/icon.svg",
     "shortDescription": "GENCOW 개발 MCP",
     "longDescription": "GENCOW 개발용 MCP 서버의 도구를 사용합니다.",
     "developerName": "GENCOW",
     "category": "Developer Tools",
     "defaultPrompt": "GENCOW 개발용 MCP에서 사용할 수 있는 도구를 확인하고 요청한 작업을 진행해줘."
-  } } }
+  }
 }

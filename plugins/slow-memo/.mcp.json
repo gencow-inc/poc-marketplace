@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "slow-memo": {
+      "url": "https://blog.gencow.link/api/mcp",
+      "type": "http"
+    }
+  }
+}

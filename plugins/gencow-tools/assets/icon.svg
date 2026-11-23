@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>GENCOW 기타 도구</title>
+  <rect width="512" height="512" rx="112" fill="#F5D8A4"/>
+  <path d="M196 192v-40a24 24 0 0 1 24-24h72a24 24 0 0 1 24 24v40" fill="none" stroke="#754526" stroke-width="20"/>
+  <rect x="88" y="192" width="336" height="200" rx="32" fill="#B3673E"/>
+  <path d="M88 256a24 24 0 0 0 24 24h288a24 24 0 0 0 24-24v-32a32 32 0 0 0-32-32H120a32 32 0 0 0-32 32Z" fill="#D38C53"/>
+  <path d="M88 280h336" stroke="#754526" stroke-width="12"/>
+  <rect x="230" y="252" width="52" height="56" rx="12" fill="#FFF1D5"/>
+</svg>

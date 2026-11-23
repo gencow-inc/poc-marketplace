@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <title>GENCOW 개발용</title>
+  <rect width="512" height="512" rx="112" fill="#182C49"/>
+  <rect x="76" y="108" width="360" height="296" rx="32" fill="#213D60" stroke="#89BDF3" stroke-width="12"/>
+  <path d="M82 178h348" stroke="#89BDF3" stroke-width="12"/>
+  <circle cx="116" cy="143" r="9" fill="#77D9C2"/>
+  <circle cx="148" cy="143" r="9" fill="#89BDF3"/>
+  <path d="m180 238-48 48 48 48m152-96 48 48-48 48" fill="none" stroke="#DDEEFF" stroke-width="18" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m277 224-42 124" stroke="#77D9C2" stroke-width="18" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "one-am": {
+      "url": "https://1am.gencow.link/api/mcp",
+      "type": "http"
+    }
+  }
+}
